@@ -6,7 +6,9 @@ A basic nodejs server to serve from the `public` folder of your repo.
 
     $ git clone git@github.com:geekskool/node-static-file-server.git <myappname>
     $ cd <myappname>
-    $ node .
+    $ npm start
 
 Now static files will be served from the `public` folder under `<myappname>`.
 Remember to change `name` in `package.json` to `<myappname>`.
+
+In your browser, browse to 'http://localhost:3000'
