@@ -1,0 +1,14 @@
+{
+  "name": "node-static-file-server",
+  "version": "1.0.0",
+  "description": "Static File Server using NodeJS",
+  "main": "lib/server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Santosh Rajan",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
+}
