@@ -1,6 +1,6 @@
 {
-  "name": "@santoshrajan/static-server",
-  "version": "1.0.0",
+  "name": "static-serv",
+  "version": "1.0.1",
   "description": "Static File Server using NodeJS",
   "bin": "./lib/server.js",
   "scripts": {
